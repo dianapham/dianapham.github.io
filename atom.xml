@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://dianapham.github.io/dianapham/atom.xml" rel="self"/>
-  <link href="http://dianapham.github.io/dianapham/"/>
-  <updated>2013-06-05T19:31:27-07:00</updated>
-  <id>http://dianapham.github.io/dianapham/</id>
+  <link href="http://dianapham.github.io/atom.xml" rel="self"/>
+  <link href="http://dianapham.github.io/"/>
+  <updated>2013-06-05T20:31:30-07:00</updated>
+  <id>http://dianapham.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[This Will Work]]></title>
-    <link href="http://dianapham.github.io/dianapham/blog/2013/06/05/this-will-work/"/>
+    <link href="http://dianapham.github.io/blog/2013/06/05/this-will-work/"/>
     <updated>2013-06-05T19:29:00-07:00</updated>
-    <id>http://dianapham.github.io/dianapham/blog/2013/06/05/this-will-work</id>
+    <id>http://dianapham.github.io/blog/2013/06/05/this-will-work</id>
     <content type="html"><![CDATA[<p>Hi,</p>
 
 <p>My name is Diana and I really, times one million, want this first post to actually work.</p>
