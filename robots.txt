@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://dianapham.github.io/dianapham/sitemap.xml 

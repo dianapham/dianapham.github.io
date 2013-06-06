@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://dianapham.github.io/dianapham/atom.xml" rel="self"/>
+  <link href="http://dianapham.github.io/dianapham/"/>
+  <updated>2013-06-05T19:31:27-07:00</updated>
+  <id>http://dianapham.github.io/dianapham/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[This Will Work]]></title>
+    <link href="http://dianapham.github.io/dianapham/blog/2013/06/05/this-will-work/"/>
+    <updated>2013-06-05T19:29:00-07:00</updated>
+    <id>http://dianapham.github.io/dianapham/blog/2013/06/05/this-will-work</id>
+    <content type="html"><![CDATA[<p>Hi,</p>
+
+<p>My name is Diana and I really, times one million, want this first post to actually work.</p>
+
+<p>Sincerely,</p>
+
+<p>Diana</p>
+]]></content>
+  </entry>
+  
+</feed>
