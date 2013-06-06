@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://dianapham.github.io/atom.xml" rel="self"/>
   <link href="http://dianapham.github.io/"/>
-  <updated>2013-06-05T20:31:30-07:00</updated>
+  <updated>2013-06-05T21:14:06-07:00</updated>
   <id>http://dianapham.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[GitHub Song]]></title>
+    <link href="http://dianapham.github.io/blog/2013/06/05/github-song/"/>
+    <updated>2013-06-05T20:55:00-07:00</updated>
+    <id>http://dianapham.github.io/blog/2013/06/05/github-song</id>
+    <content type="html"><![CDATA[<p>I created this song in the middle of trying to get this blog up and running. Enjoy!</p>
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/QlpzTM4euCQ" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[This Will Work]]></title>
