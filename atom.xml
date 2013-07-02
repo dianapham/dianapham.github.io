@@ -4,7 +4,7 @@
   <title><![CDATA[diana pham]]></title>
   <link href="http://dianapham.github.io/atom.xml" rel="self"/>
   <link href="http://dianapham.github.io/"/>
-  <updated>2013-06-27T18:45:15-07:00</updated>
+  <updated>2013-07-02T11:03:53-07:00</updated>
   <id>http://dianapham.github.io/</id>
   <author>
     <name><![CDATA[Diana Pham]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Intro to HTML &amp; CSS]]></title>
+    <link href="http://dianapham.github.io/blog/2013/07/02/intro-to-html-and-css/"/>
+    <updated>2013-07-02T10:53:00-07:00</updated>
+    <id>http://dianapham.github.io/blog/2013/07/02/intro-to-html-and-css</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m starting my Intro to HTML &amp; CSS course today. SUPER EXCITED!</p>
+
+<p>We have to come prepared with materials for a mock website. It&rsquo;s just for funsies so I&rsquo;m going to create a website compiling all my cartoon drawings. I was thinking I&rsquo;d just include all of my artsy stuff, but nah. This simple idea will be for class and I&rsquo;ll just implement everything I learn into making this blog better. I&rsquo;d rather just have one site for now. You know, make one site look hella good.</p>
+
+<p>I&rsquo;m still fumbling around with the code fellows HTML problem. UGH. I can&rsquo;t get the append function to work the way I want it to. Hopefully, I&rsquo;ll learn about it or can ask someone about it in the HTML class I take tonight.</p>
+
+<p>Here&rsquo;s the most recent cartoon I drew at work:</p>
+
+<p><img class="center" src="http://1.bp.blogspot.com/-g0nhTW2a7-I/Uc8f4uhZ5hI/AAAAAAAAC5U/zhrZveApsyw/s1600/IMG020.jpg" width="600"></p>
+
+<p>I need to get a new phone. Apparently, I&rsquo;m not receiving incoming calls and my text messages aren&rsquo;t going out. Boo. Plus, the camera is getting iffy. BLAH. I&rsquo;ve gotta save up though.</p>
+
+<p>OH! I totally had $5.30 surplus from my little budget experiment. Bwahaha! I&rsquo;m so good at budgeting. The last thing I bought in June was food for this week. Oh the things I can get with $5.30. That&rsquo;s like, a whole &lsquo;nother week of food almost! Cheap asian produce market ftw!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[HTML and CSS for n00bs]]></title>
