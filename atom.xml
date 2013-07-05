@@ -4,7 +4,7 @@
   <title><![CDATA[diana pham]]></title>
   <link href="http://dianapham.github.io/atom.xml" rel="self"/>
   <link href="http://dianapham.github.io/"/>
-  <updated>2013-07-02T18:58:24-07:00</updated>
+  <updated>2013-07-04T23:17:00-07:00</updated>
   <id>http://dianapham.github.io/</id>
   <author>
     <name><![CDATA[Diana Pham]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[July 4th]]></title>
+    <link href="http://dianapham.github.io/blog/2013/07/04/july-4th/"/>
+    <updated>2013-07-04T23:15:00-07:00</updated>
+    <id>http://dianapham.github.io/blog/2013/07/04/july-4th</id>
+    <content type="html"><![CDATA[<p>HAPPY JULY FOURTH!</p>
+
+<p>Next week is gonna be hella hella. (I&rsquo;m not supposed to say what yet because of I don&rsquo;t know, some official whatever, but yeahhhhhhh.)</p>
+
+<p>el oh el lolsicles.</p>
+
+<p>I know.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Intro to HTML &amp; CSS]]></title>
