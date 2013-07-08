@@ -4,7 +4,7 @@
   <title><![CDATA[diana pham]]></title>
   <link href="http://dianapham.github.io/atom.xml" rel="self"/>
   <link href="http://dianapham.github.io/"/>
-  <updated>2013-07-08T08:05:42-07:00</updated>
+  <updated>2013-07-08T12:29:14-07:00</updated>
   <id>http://dianapham.github.io/</id>
   <author>
     <name><![CDATA[Diana Pham]]></name>
@@ -14,7 +14,16 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Oh By the Way]]></title>
+    <title type="html"><![CDATA[CODE FELLOWS]]></title>
+    <link href="http://dianapham.github.io/blog/2013/07/08/code-fellows/"/>
+    <updated>2013-07-08T12:28:00-07:00</updated>
+    <id>http://dianapham.github.io/blog/2013/07/08/code-fellows</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m in my Code Fellows class! YAY!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Oh, BTW]]></title>
     <link href="http://dianapham.github.io/blog/2013/07/08/oh-by-the-way/"/>
     <updated>2013-07-08T08:04:00-07:00</updated>
     <id>http://dianapham.github.io/blog/2013/07/08/oh-by-the-way</id>
