@@ -4,7 +4,7 @@
   <title><![CDATA[diana pham]]></title>
   <link href="http://dianapham.github.io/atom.xml" rel="self"/>
   <link href="http://dianapham.github.io/"/>
-  <updated>2013-07-04T23:17:00-07:00</updated>
+  <updated>2013-07-08T08:05:42-07:00</updated>
   <id>http://dianapham.github.io/</id>
   <author>
     <name><![CDATA[Diana Pham]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Oh By the Way]]></title>
+    <link href="http://dianapham.github.io/blog/2013/07/08/oh-by-the-way/"/>
+    <updated>2013-07-08T08:04:00-07:00</updated>
+    <id>http://dianapham.github.io/blog/2013/07/08/oh-by-the-way</id>
+    <content type="html"><![CDATA[<p>I got into Code Fellows. The first day is today. :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[July 4th]]></title>
