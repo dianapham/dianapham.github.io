@@ -4,7 +4,7 @@
   <title><![CDATA[diana pham]]></title>
   <link href="http://dianapham.github.io/atom.xml" rel="self"/>
   <link href="http://dianapham.github.io/"/>
-  <updated>2013-07-12T13:18:37-07:00</updated>
+  <updated>2013-07-12T14:04:12-07:00</updated>
   <id>http://dianapham.github.io/</id>
   <author>
     <name><![CDATA[Diana Pham]]></name>
@@ -12,6 +12,63 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Twitter Widget]]></title>
+    <link href="http://dianapham.github.io/blog/2013/07/12/twitter-widget/"/>
+    <updated>2013-07-12T13:46:00-07:00</updated>
+    <id>http://dianapham.github.io/blog/2013/07/12/twitter-widget</id>
+    <content type="html"><![CDATA[<p>As of this current date and time, if you look to the right side column of this page, you&rsquo;ll see an embedded twitter widget. YES! I finally got around to putting that in there. I didn&rsquo;t have much on my twitter before, but I&rsquo;ve been tweeting a lot more about my learning process there, so why not?</p>
+
+<p>I&rsquo;ve installed zsh in my command prompt and it wasn&rsquo;t working with my octopress blog so I had to switch back to bash. I&rsquo;ll have to configure that somehow. But yeah I learned how to switch between them.</p>
+
+<p>Switch to bash:</p>
+
+<pre><code>exec bash
+</code></pre>
+
+<p>Switch to zsh</p>
+
+<pre><code>exec zsh
+</code></pre>
+
+<p>Yeah that&rsquo;s pretty straight forward.</p>
+
+<p>I&rsquo;m really enjoying this Code Fellows bootcamp. I&rsquo;ve learned so much in such a great environment. By that I mean, the actual physical building itself and the people that surround me, but also the programming environment. It&rsquo;s so cool.</p>
+
+<!-- more -->
+
+
+<p>My last SQL Server class ended on Wednesday and that was pretty awesome. My instructor was trying to show us how to issue jobs off SQL Server Agent and it turned out he didn&rsquo;t have permission on his login because the school wipes the computers every night. Blah blah did stuff blah. Then eventually:</p>
+
+<p>him: &ldquo;Alright, well, can someone connect to my server and give me rights?&rdquo;
+students: <em>look around/do stuff</em>
+him: &ldquo;Has anyone connected?&rdquo;
+me: &ldquo;I connected.&rdquo;
+him: &ldquo;Oh cool, can you set my permissions?&rdquo;
+me: &ldquo;Yeah.&rdquo; <em>change login permissions and rights</em>
+him: &ldquo;See, it&rsquo;s always great to have a sys admin in your back pocket. You know, just in case you lock yourself out.&rdquo;
+me: &ldquo;Okay, it&rsquo;s done.&rdquo;</p>
+
+<p>(But really I was thinking, &ldquo;OMG I&rsquo;M A SYS ADMIN! HE CALLED ME A SYS ADMIN!&rdquo;)</p>
+
+<p>him: &ldquo;Thanks. Alright, so here we see&hellip;&rdquo;</p>
+
+<p>And yeah, it was totally cool. It&rsquo;s great being able to utilize what you&rsquo;ve learned to help learn more stuff. UNGH! I seriously don&rsquo;t know why I love this stuff so much, but I just do.</p>
+
+<p>I&rsquo;ve been trying to bridge the gap between the database mindset and the programming mindset. Actually, I don&rsquo;t know if it&rsquo;s more bridging the gap or just understanding what the difference is. I&rsquo;m learning about databases and programming and for some reason I keep finding articles about how there&rsquo;s a separation. Separation of powers!?</p>
+
+<p>I dunno.</p>
+
+<p>Anyway, I really like my db classes, but I&rsquo;ve decided to opt out of the classes I signed up for in August because I want to focus on Code Fellows. Actually, I&rsquo;m for surely in the Silver bootcamp (I&rsquo;m currently partaking in it) and I&rsquo;m pending Gold. One of my instructors said that pretty much everyone makes it into Gold so I should just focus on working hard. Yeah I can do that. I&rsquo;m good at working hard.</p>
+
+<p>-insert life story-</p>
+
+<p>Sighh. Too cool. Life is good right now. Yay.</p>
+
+<p>[histamine intolerance is relatively in check now too.]</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[CODE FELLOWS]]></title>
