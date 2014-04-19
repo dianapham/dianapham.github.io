@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Curious"
+date: 2014-04-19 15:14
+comments: true
+categories:
+---
+What do you want, Beezy?
+
+I almost cursed there. I've been trying to cut down on that because curse too much. Also, if I'm writing books for kids, what would it look like if I'm cursing like a trucker? Actually, during my bootcamp, I remember people always remarking about how cursing is just part of the culture. Thank gosh.
+
+I'm contemplating what I want to do with my company. I want to do A LOT. But I don't know if the avenue I'm taking is the right way or not. It's really frustrating.
+
+Also, I really don't like typing/reading white text over black. It hurts my eyes. I dunno if I'd like it if I changed the template of SublimeText2 though. I like keeping things the standard way. GAH.
+
+I'm going to make a list to try some markdown:
+
+* I don't like wearing socks without shoes.
+* Toe segregation scares me.
+* Blueberry muffins are yummy, but blueberry cakes are weird.
+
+Ahh. Okay, so you have to use the same little bullet things to make them bullets. I don't like how my these has the bullets out of the main margin. Boogerszz. I'll fix that later.
