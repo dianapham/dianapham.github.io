@@ -4,7 +4,7 @@
   <title><![CDATA[dianaphamhere]]></title>
   <link href="http://dianapham.github.io/atom.xml" rel="self"/>
   <link href="http://dianapham.github.io/"/>
-  <updated>2013-08-07T13:10:47-07:00</updated>
+  <updated>2014-04-18T23:25:25-07:00</updated>
   <id>http://dianapham.github.io/</id>
   <author>
     <name><![CDATA[Diana Pham]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[seriously forever]]></title>
+    <link href="http://dianapham.github.io/blog/2014/04/18/seriously-forever/"/>
+    <updated>2014-04-18T23:08:00-07:00</updated>
+    <id>http://dianapham.github.io/blog/2014/04/18/seriously-forever</id>
+    <content type="html"><![CDATA[<p>I feel like all my posts pretty much start with the effect of, &ldquo;omg it&rsquo;s been forever since I&rsquo;ve posted!&rdquo;</p>
+
+<p>Meh.</p>
+
+<p>The other day, it was brought to my attention that I haven&rsquo;t been writing much anymore. Back in the day, I used to write 8 pages of daily ramblings for something like 7 years? Back when Xanga was a really cool thing that everyone wrote on. I didn&rsquo;t have many followers, nor did I really follow anyone. But I really enjoyed writing. I didn&rsquo;t really know if anyone read my stuff, but it was super cathartic, so I kept it up. Sometimes I feel like I stopped writing because I get so OCD about it all. If I don&rsquo;t write one day then I get really stressed out that I didn&rsquo;t write and then I feel all bad and gross. No bueno.</p>
+
+<p>In any case, I originally meant for this blog to be about tech related stuff, but I really don&rsquo;t like scoping that much. I need a place to just talk about anything. Since Xanga doesn&rsquo;t seem to be up anymore, I looked at other blogging platforms and just got frustrated. So here I am again. I&rsquo;ll write about whatever is on my mind. I really don&rsquo;t think many people are going to read this stuff anyway. Whatevs.</p>
+
+<p>I&rsquo;m working on my Rad Randy app for DinoHulk. Freaking error is driving me crazy:</p>
+
+<p>\ts&#8221;Application windows are expected to have a root view controller at the end of application launch&#8221;</p>
+
+<p>UGHHHH. I&rsquo;ll figure it out tomorrow. BLEH.</p>
+
+<p>I&rsquo;m going to make an effort at making this blog better. I guess I want to have it be my personal website too. Blah blah. Grumble ramble.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[I Know]]></title>
