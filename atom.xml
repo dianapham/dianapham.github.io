@@ -4,7 +4,7 @@
   <title><![CDATA[dianaphamhere]]></title>
   <link href="http://dianapham.github.io/atom.xml" rel="self"/>
   <link href="http://dianapham.github.io/"/>
-  <updated>2014-04-23T14:32:03-07:00</updated>
+  <updated>2014-04-24T15:03:27-07:00</updated>
   <id>http://dianapham.github.io/</id>
   <author>
     <name><![CDATA[Diana Pham]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Boo.]]></title>
+    <link href="http://dianapham.github.io/blog/2014/04/24/boo/"/>
+    <updated>2014-04-24T15:02:00-07:00</updated>
+    <id>http://dianapham.github.io/blog/2014/04/24/boo</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m missing a package. 2/3 came in. What happened to the other one? BOOOOOO.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[XENA]]></title>
@@ -553,19 +562,6 @@ ORDER BY bloob;
 <p>Anyway, I need to go rest my eyes. Whatever pollen is out there right now is killing me. The other week there were these little white fluffy things floating around everywhere. EVERYWHERE! Oh, the horror it was!</p>
 
 <p>Fingers crossed for the Code Fellows application!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Applying to Code Fellows]]></title>
-    <link href="http://dianapham.github.io/blog/2013/06/06/applying-to-code-fellows/"/>
-    <updated>2013-06-06T18:42:00-07:00</updated>
-    <id>http://dianapham.github.io/blog/2013/06/06/applying-to-code-fellows</id>
-    <content type="html"><![CDATA[<p>I am moments away from sending my updated application to Code Fellows. I am excited and nervous at the same time. I was in the process of getting this Octopress blog up for the past few weeks and the Code Fellows application was a huge catalyst in getting things really going.</p>
-
-<p>So, yeah, even if I don&rsquo;t get into the women&rsquo;s bootcamp, Code Fellows has already helped me learn more about coding. YAY!</p>
-
-<p>Wish me luck!!! :)</p>
 ]]></content>
   </entry>
   
