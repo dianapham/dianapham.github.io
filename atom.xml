@@ -4,7 +4,7 @@
   <title><![CDATA[dianaphamhere]]></title>
   <link href="http://dianapham.github.io/atom.xml" rel="self"/>
   <link href="http://dianapham.github.io/"/>
-  <updated>2014-04-28T22:06:52-07:00</updated>
+  <updated>2014-05-01T17:46:43-07:00</updated>
   <id>http://dianapham.github.io/</id>
   <author>
     <name><![CDATA[Diana Pham]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[happy bday me]]></title>
+    <link href="http://dianapham.github.io/blog/2014/05/01/happy-bday-me/"/>
+    <updated>2014-05-01T17:41:00-07:00</updated>
+    <id>http://dianapham.github.io/blog/2014/05/01/happy-bday-me</id>
+    <content type="html"><![CDATA[<p><img src="http://dianapham.github.io/images/googlebday.png" title="[google cakes]" >
+Cute, Google. Cute.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[portability]]></title>
@@ -437,23 +447,6 @@ me: &ldquo;Okay, it&rsquo;s done.&rdquo;</p>
 <p>So yeah. I&rsquo;m gonna be doing that for the month of July on Tuesday nights. DB classes Monday and Wednesday nights. If I get into Code Fellows, it&rsquo;ll be M-F 9am-4pm. I think I read that some people stay after 4pm to work on stuff, but I really want to finish my DB classes. I really enjoy them.</p>
 
 <p>Okay, back to learning more about HTML. At least enough to finish this problem!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[MY HEAD IS EXPANDING]]></title>
-    <link href="http://dianapham.github.io/blog/2013/06/22/my-head-is-expanding/"/>
-    <updated>2013-06-22T20:19:00-07:00</updated>
-    <id>http://dianapham.github.io/blog/2013/06/22/my-head-is-expanding</id>
-    <content type="html"><![CDATA[<p>Seriously, I feel like my brain is pushing against my skull. I&rsquo;m soaking in so much information right now. I told someone I&rsquo;m &ldquo;drying my eyes out&rdquo; trying to learn ruby and html.</p>
-
-<p>Yesterday, I received a message about scholarships for Code Fellows if I got into the program. I sent answers to the scholarship questions then this morning I received another message about final application questions. More like, final application problems. I have to create some stuff and holy moly bologna! The things I have to make are a little beyond my scope, but I mean, that&rsquo;s kind of what&rsquo;s making this all so fun. I&rsquo;m learning all this crazy shizzniz.</p>
-
-<p>I&rsquo;ve been getting really frustrated trying to figure these things out, but I think ten hours later, I&rsquo;m really getting somewhere. There are three problems and I&rsquo;ve pretty much got all of them half done. I think that&rsquo;s a good start! Haha. In theory, I know what I need to do, it&rsquo;s just making it all be real that I&rsquo;m working on. If I could use MS Access or better yet, SQL Server, I could get all this done pretty quickly, but I&rsquo;ve gotta build it all from scratch so yeah. That&rsquo;s the point! To learn!</p>
-
-<p>Something I&rsquo;ve learned about myself is that my frustration dances and my success dances are pretty much the same; the only differences are my facial expressions. I jump up and down, express obscenities, thrash my limbs around, it looks like I&rsquo;m squinting in both dances. In my frustrated dance, I glare at everything. In my success dance I&rsquo;m smiling. Haha. I think I can model that! But I&rsquo;ll do that a little later. I gotta finish these things.</p>
-
-<p>Huzzahhh!</p>
 ]]></content>
   </entry>
   
