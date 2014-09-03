@@ -4,7 +4,7 @@
   <title><![CDATA[dianaphamhere]]></title>
   <link href="http://dianapham.github.io/atom.xml" rel="self"/>
   <link href="http://dianapham.github.io/"/>
-  <updated>2014-05-22T15:03:40-07:00</updated>
+  <updated>2014-09-03T12:22:51-07:00</updated>
   <id>http://dianapham.github.io/</id>
   <author>
     <name><![CDATA[Diana Pham]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[it's been a year]]></title>
+    <link href="http://dianapham.github.io/blog/2014/09/03/its-been-a-year/"/>
+    <updated>2014-09-03T11:49:00-07:00</updated>
+    <id>http://dianapham.github.io/blog/2014/09/03/its-been-a-year</id>
+    <content type="html"><![CDATA[<p>I graduated from Code Fellows one year ago.</p>
+
+<p>WOAHH.</p>
+
+<p>I wrote a thingy for Code Fellows to post on their blog. You can read it
+<a href="https://www.codefellows.org/blog/life-after-code-fellows-diana-pham-and-the-creation-of-dinohulk">here</a>.</p>
+
+<p>I had two drafts. One was a philosophical look and the other was more of what actually happened in the past year. The latter got published. I&rsquo;m going to publish the philosophical one here. I dunno if anyone even visits this blog of mine anyway. I rarely post anything.</p>
+
+<p>Blah blah excuses.</p>
+
+<p>&mdash;</p>
+
+<h3>Changing My Life: One Year Later</h3>
+
+<p><em>Self Reflection</em></p>
+
+<p>Every morning, I wake up and ask myself, “Did I make a good decision?” The decisions range from whether I should have ignored my five morning alarms or more serious matters such as should I have eaten that taco before bed. Self reflection is a big part of how I’ve gotten where I am today. I question who I am, where I am and whether I like any of that. Some call it doubt, I call it double checking.</p>
+
+<p>Three and a half years ago, was it a good decision to drop college, leave home and start a new life in Seattle with only $14.12 in my bank account? Two years ago, was it a good decision to work two full time jobs with a constant flow of side gigs just to save up for “something” in the future? One year ago, was it a good decision to trust my life savings (of two years) to a newly founded startup that claimed they would help me change my life by teaching me how to program? Did I know the right people who could help me rough up this company if this turned out to be a scam?</p>
+
+<p>All my life I was told I wasn’t good enough or that I was too cocky; I was going to fail or that I was just lucky; I was going to regret everything or that I was ungrateful. Stoicism became my resolve. To this day, when I have these self reflections, I always wonder if I’m allowed to be proud of myself for my risky accomplishments or if I should just quietly be grateful I didn’t do more harm than good. But then I recall my time at Code Fellows and remember that I am as invincible as I will allow myself to be.</p>
+
+<p><em>You Are Amazing</em></p>
+
+<p>“We are not here to crank out code monkeys. We’re here to change lives.” &ndash; Will Little, July 2014</p>
+
+<p>In just the first 15 minutes of taking a seat in that (initially thought to be sketchy) basement classroom, I relaxed and knew that I had made the right decision in embarking on this crusade towards self-sustaining fulfillment with the initial guidance from the remarkable staff at Code Fellows. Yes, I learned how to program coming from only one week’s worth of coding background before applying to the bootcamp. Yes, I learned how to get all up into social media and forums to make my name known on the internet. Yes, I learned where to find all the good tech events and how to network with a bunch of awesome people. But the most goddamn important thing I learned when I was at Code Fellows was that I am fucking amazing and no one can take that away from me.</p>
+
+<p>I plowed through those eight weeks with an intensity I did not know I possessed. People told me learning how to program was going to be hard. They told me a rigorous eight week bootcamp was going to be super intense. Working nights and weekends while going to a this eight week programming bootcamp was downright insane. My friends who knew of my health issues said it was a bad time to take these risks. But I didn’t care what anyone said. I was ready to throw in everything I had for a chance to discover the world and a better me.</p>
+
+<p><em>Be Curious</em></p>
+
+<p>While I worked on my final project, a website to teach beginners how to program, <a href="http://www.tekkikat.com">tekkikat.com</a>, I started getting curious about other parts of the tech industry. There had to be more than just web development, right? What about mobile apps? What about console games? Those had to be programmed by people too, right? So I taught myself how to make an iOS app. I thought my instructors would be mad that I wasn’t solely working on my final project, but I was pleasantly surprised by their enthusiastic comments towards my simple “type your name, click the button then you’ll see ‘hello, [your name]” app. “Woah! This is awesome! Since you already know Ruby, did you know there’s this thing where you can use Ruby to make mobile apps too?” Instead of keeping me pigeonholed in web dev, they encouraged me to foster my curiosity and that’s what led to me starting my own company called <a href="http://www.dinohulk.com">DINOHULK</a>.</p>
+
+<p>Officially a year later, I am grateful for my decision to join Code Fellows. I learned that there’s nothing wrong with believing you’re amazing and that being curious is nothing to be ashamed of. In the past year, I’ve traveled around teaching kids and adults the joys of programming. I’ve spoken at schools and events about my path into the tech field. I’ve written a bunch of stories about the little wonders of the world that I have discovered. Most people expect to obtain a grandiose career as a programmer after graduating a bootcamp. Although, I’m not some top notch programmer now, I still found an amazing career. My job is to be amazing, be curious and to inspire others do the same.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ME FEATURED IN GEEKWIRE]]></title>
@@ -408,15 +452,6 @@ me: &ldquo;Okay, it&rsquo;s done.&rdquo;</p>
     <updated>2013-07-08T12:28:00-07:00</updated>
     <id>http://dianapham.github.io/blog/2013/07/08/code-fellows</id>
     <content type="html"><![CDATA[<p>I&rsquo;m in my Code Fellows class! YAY!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Oh, BTW]]></title>
-    <link href="http://dianapham.github.io/blog/2013/07/08/oh-by-the-way/"/>
-    <updated>2013-07-08T08:04:00-07:00</updated>
-    <id>http://dianapham.github.io/blog/2013/07/08/oh-by-the-way</id>
-    <content type="html"><![CDATA[<p>I got into Code Fellows. The first day is today. :)</p>
 ]]></content>
   </entry>
   
