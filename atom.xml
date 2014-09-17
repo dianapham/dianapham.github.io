@@ -4,7 +4,7 @@
   <title><![CDATA[dianaphamhere]]></title>
   <link href="http://dianapham.github.io/atom.xml" rel="self"/>
   <link href="http://dianapham.github.io/"/>
-  <updated>2014-09-03T12:47:31-07:00</updated>
+  <updated>2014-09-17T16:37:42-07:00</updated>
   <id>http://dianapham.github.io/</id>
   <author>
     <name><![CDATA[Diana Pham]]></name>
@@ -12,6 +12,74 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[diana's take on what to learn]]></title>
+    <link href="http://dianapham.github.io/blog/2014/09/17/dianas-take-on-what-to-learn/"/>
+    <updated>2014-09-17T16:14:00-07:00</updated>
+    <id>http://dianapham.github.io/blog/2014/09/17/dianas-take-on-what-to-learn</id>
+    <content type="html"><![CDATA[<p>When picking the right language to learn, you’ve really got to think about what you want to do. If you want do web dev, do you want to be back-end, front-end or full stack? If you want to be a mobile dev, what OS do you want to work with: iOS, Android or Windows (cough)? If you wanna make games, do you want to make it for consoles, mobile or PCs? Also, where does money factor in in all of this? Are you switching careers to create things you’re passionate about or to get a salary increase?</p>
+
+<!-- more -->
+
+
+<h3>Web Dev</h3>
+
+<p><strong>Ruby/Ruby on Rails</strong></p>
+
+<p>Ruby on Rails has a huge community that’s rapidly growing (especially in the Seattle area (especially in the Startup community)). Normally, when you hear someone say they know Ruby, they’ll more than likely also know Ruby on Rails. I took the Ruby on Rails bootcamp (equivalent to a dev accelerator now) last year. It was difficult to learn mainly because I almost no experience with programming. However, Rails as a framework takes care of a lot for you and it’s pretty well organized with a bunch of documentation. A lot of people seem to learn Ruby, the language, while they learn Rails, the framework.</p>
+
+<p>Ruby as a language is described as very pretty and easy to use. Semicolons are not required. People create libraries for Ruby and those libraries are called gems (get it? ruby. gem. yeah.). You’ll find yourself using a lot of gems. You can try writing some Ruby here in this short intro tutorial: <a href="http://tryruby.org/levels/1/challenges/0">http://tryruby.org/levels/1/challenges/0</a></p>
+
+<p><strong>Python/Django</strong></p>
+
+<p>I never learned Django because was sticking with Rails for web dev, but I did learn Python. A lot of people say that Python is more of a general programming language. It’s easy to make prototypes. I learned a bit of Python and liked it. I created some pretty neat games and learned a lot of logic from learning Python. There’s actually a free course going on right now on Coursera for Python if anyone wants to check that out: <a href="https://www.coursera.org/course/interactivepython">https://www.coursera.org/course/interactivepython</a> This is one I watched when I learned Python. The instructors are these four old nerdy guys who are just adorably hilarious.</p>
+
+<p>Since I don’t have any experience with Django, here are some resources:</p>
+
+<p>For a general comparison of Django vs Rails, visit this link: <a href="http://forums.udacity.com/questions/100012806/why-web-startups-favor-ruby-rails-vs-python-django">http://forums.udacity.com/questions/100012806/why-web-startups-favor-ruby-rails-vs-python-django</a></p>
+
+<p>For a technical comparison of Django vs Rails, visit this link: <a href="https://bernardopires.com/2014/03/rails-vs-django-an-in-depth-technical-comparison/">https://bernardopires.com/2014/03/rails-vs-django-an-in-depth-technical-comparison/</a></p>
+
+<p><strong>Node.js</strong></p>
+
+<p>Everyone I’ve meant who knows Node.js pretty much swears by it. The biggest argument is that JavaScript is already everywhere across the web, why not use it throughout the stack? I haven’t had the change to learn it yet, but seriously, apparently people get very hardcore about it once they learn it. Here’s an aptly named article: <a href="http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js">http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js</a></p>
+
+<p><strong>Front-End Dev</strong></p>
+
+<p>Honestly, I think everyone should be a front-end dev. And then if you want to learn back-end too, you’ll be a full stack developer. Anyway, to be a front-end dev, you for surely need to get really good at HTML/CSS/JS. Totally learn jQuery. If you decide you just want to be a web designer, you’ll have an easier time finding a job if you know HTML/CSS. This makes it easier for employers because instead of you just handing off a sketch to a developer, you can actually develop the code yourself. Then you know, the back end developer integrate all the other services and stuff.</p>
+
+<p>Whether you chose to solely do front-end dev or back-end dev, I highly recommend knowing a fair amount of HTML/CSS/JS if you’re getting in web dev. Honestly, I feel like if you want to get a job quick, learning Rails is the way to go right now. From what I’ve gathered in my research, there’s just more companies using Rails than they are companies using Django or Node.js.</p>
+
+<p>Alternatively, if you’re not super worried about what’s the most popular, there are a bunch of other languages and frameworks you could use to make websites, like the ASP.NET framework, AngularJS and others. I’m not a huge fan of sending people to Wikipedia, but this page actually has a really thorough outline of all the web application frameworks sorted by language: <a href="http://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks">http://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks</a></p>
+
+<h3>Mobile Dev</h3>
+
+<p>When creating mobile apps, you really have to be aware of how many devices there are in the world. The top OS hitters are iOS, Android and Windows Phone, but within each of those ecosystems, there’s a ton of devices with different resolutions and other hardware customizations. Responsive design is key.</p>
+
+<p><strong>iOS</strong></p>
+
+<p>HOLLA! I really like Obj-C and I’m liking Swift too as I’m learning it. Xcode, an IDE for OS X and iOS, makes it really easy to create projects. The GUI especially makes development much easier (I’m specifically talking about the storyboard). Obj-C’s syntax is enough to drive away a lot of developers, but once you get used to it, it’s not a big deal. Xcode is free to download if you have a Mac computer. It also comes with a simulator so you can test your apps. You do have to purchase a developer license to test on a physical device and submit to the App Store though. Sending out an iOS app to the App Store to be verified can take awhile especially if you have a ton of bugs and they send it back to you, but this is how Apple makes sure they’ve got better quality apps in the App Store. There are a ton of apps already in the App Store, but honestly, making iOS apps is the way you’re going to make more money. The way Apple sets up their user accounts, it’s so much easier for someone to accept purchasing an app. <a href="https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/">https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOS/</a></p>
+
+<p><strong>Android</strong></p>
+
+<p>I think Android development was easy for me to pick up because I already learned iOS dev, but really you’re just learning another language’s syntax (Java in this case). The dev kit is free to install, but I found it was a more involved process than downloading Xcode. A good thing is you can develop Android apps on any type of computer (Mac, Windows, Linux). You can customize a lot on Android, which is great, but also can lead to a bunch of bugs and crashes. <a href="http://developer.android.com/training/index.html">http://developer.android.com/training/index.html</a></p>
+
+<p><strong>Windows Phone</strong></p>
+
+<p>The mobile market is saturated with iOS and Android; the Windows Phone really doesn’t compare. But to get things going, Microsoft throws out all sorts of incentives for developers to create apps for Windows Phone. I haven’t keep track of them lately, but they used to do things like give free phones to developers who submit their first app to the store. Or give $250 credit for developers who submit two apps. I dunno. It seems like they’re really grasping. Microsoft just bought Mojang though so I’m sure they’re going to try to get Minecraft on the Windows Phone to boost the popularity of the phone. In any case, while there aren’t many apps in their store, you could say that by submitting your own apps, you’d have more probability of visibility, but at the same time, that’s only visibility from an already low population of Windows Phone users. The language is predominately C#, but I believe you can also use C++. <a href="http://msdn.microsoft.com/en-us/library/windows/apps/ff402529">http://msdn.microsoft.com/en-us/library/windows/apps/ff402529</a>(v=vs.105).aspx</p>
+
+<h3>Game Dev</h3>
+
+<p>if you already know what type of games you want to make and/or what environment, then it&rsquo;ll be easier to figure out what language you should learn. if you want to make games for Xbox, you&rsquo;ll want to learn C#. if you want to make web games, learn JavaScript and check out HTML5 Canvas. if you wanna make games for iOS, learn Obj-C or Swift. if you wanna make games for Android, learn Java.</p>
+
+<p>There are also programs that allow cross-platform publishing, but the code won&rsquo;t be native. Native code means that the programming language used to make the game is the same one the platform is running. (Obj-C for iOS, Java for Android). Games or any app will run faster if you&rsquo;re using native code. Anyway, if you want to check out making cross-platform games, check out Unity3d which mainly uses C#, Javascript or Boo, then converts to the other platforms. <a href="http://unity3d.com/">http://unity3d.com/</a></p>
+
+<h3>In Summation</h3>
+
+<p>If you&rsquo;re just starting out and don&rsquo;t know what you want to do, go to tech events and talk to people about what they do and what they learned to get there. Also, all the basic computer science stuff can be learned with any language. Once you excel at a certain language, you&rsquo;ll have the fundamental tools to learn another language and see which works best for you and what you want to make. The reason there are a ton of different languages is because some are better for some things than others, but they all basically contain the same concepts.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[it's been a year]]></title>
@@ -38,6 +106,9 @@
 <p>Every morning, I wake up and ask myself, “Did I make a good decision?” The decisions range from whether I should have ignored my five morning alarms or more serious matters such as should I have eaten that taco before bed. Self reflection is a big part of how I’ve gotten where I am today. I question who I am, where I am and whether I like any of that. Some call it doubt, I call it double checking.</p>
 
 <p>Three and a half years ago, was it a good decision to drop college, leave home and start a new life in Seattle with only $14.12 in my bank account? Two years ago, was it a good decision to work two full time jobs with a constant flow of side gigs just to save up for “something” in the future? One year ago, was it a good decision to trust my life savings (of two years) to a newly founded startup that claimed they would help me change my life by teaching me how to program? Did I know the right people who could help me rough up this company if this turned out to be a scam?</p>
+
+<!-- more -->
+
 
 <p>All my life I was told I wasn’t good enough or that I was too cocky; I was going to fail or that I was just lucky; I was going to regret everything or that I was ungrateful. Stoicism became my resolve. To this day, when I have these self reflections, I always wonder if I’m allowed to be proud of myself for my risky accomplishments or if I should just quietly be grateful I didn’t do more harm than good. But then I recall my time at Code Fellows and remember that I am as invincible as I will allow myself to be.</p>
 
@@ -213,7 +284,7 @@ Aren&rsquo;t these just adorable?</p>
 
 <p>MEH.</p>
 
-<p>Whatever. I can still do what I want. I&rsquo;m stuck there anymore.</p>
+<p>Whatever. I can still do what I want. I&rsquo;m not stuck there anymore.</p>
 
 <p>On a brighter not, I finally cut my fingernails. Heyoo!</p>
 
@@ -300,7 +371,7 @@ Aren&rsquo;t these just adorable?</p>
 
 <p>I feel something boiling inside. I haven&rsquo;t felt it in years because I shoved it down to survive. I&rsquo;m afraid I&rsquo;m going to explode.</p>
 
-<p>I think the point of all that was that if someone reads all and doesn&rsquo;t want to work with me then whatever. I really don&rsquo;t care. Culture fit is important to me. Being human is important to me. Keeping it real and all that.</p>
+<p>I think the point of all that was that if someone reads all that and doesn&rsquo;t want to work with me then whatever. I really don&rsquo;t care. Culture fit is important to me. Being human is important to me. Keeping it real and all that.</p>
 
 <p>When I give talks and stuff, I allude to how I had a rough childhood. I mumble something about how I&rsquo;m an angry person and everyone chuckles. It&rsquo;s pretty funny. I usually chuckle too. I really admire people who go through hardships and make the most of them. That&rsquo;s what I try to do all the time. I try to joke about things that happen. I use humor to handle everything. Sometimes it&rsquo;s too sarcastic and dry for people. Too much dark humor for the general public. But I need it. And I need to vent.</p>
 
@@ -443,15 +514,6 @@ me: &ldquo;Okay, it&rsquo;s done.&rdquo;</p>
 <p>Sighh. Too cool. Life is good right now. Yay.</p>
 
 <p>[histamine intolerance is relatively in check now too.]</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[CODE FELLOWS]]></title>
-    <link href="http://dianapham.github.io/blog/2013/07/08/code-fellows/"/>
-    <updated>2013-07-08T12:28:00-07:00</updated>
-    <id>http://dianapham.github.io/blog/2013/07/08/code-fellows</id>
-    <content type="html"><![CDATA[<p>I&rsquo;m in my Code Fellows class! YAY!</p>
 ]]></content>
   </entry>
   
