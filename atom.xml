@@ -4,7 +4,7 @@
   <title><![CDATA[dianaphamhere]]></title>
   <link href="http://dianapham.github.io/atom.xml" rel="self"/>
   <link href="http://dianapham.github.io/"/>
-  <updated>2014-09-17T16:37:42-07:00</updated>
+  <updated>2014-10-21T12:22:52-07:00</updated>
   <id>http://dianapham.github.io/</id>
   <author>
     <name><![CDATA[Diana Pham]]></name>
@@ -30,6 +30,8 @@
 <p>Ruby on Rails has a huge community that’s rapidly growing (especially in the Seattle area (especially in the Startup community)). Normally, when you hear someone say they know Ruby, they’ll more than likely also know Ruby on Rails. I took the Ruby on Rails bootcamp (equivalent to a dev accelerator now) last year. It was difficult to learn mainly because I almost no experience with programming. However, Rails as a framework takes care of a lot for you and it’s pretty well organized with a bunch of documentation. A lot of people seem to learn Ruby, the language, while they learn Rails, the framework.</p>
 
 <p>Ruby as a language is described as very pretty and easy to use. Semicolons are not required. People create libraries for Ruby and those libraries are called gems (get it? ruby. gem. yeah.). You’ll find yourself using a lot of gems. You can try writing some Ruby here in this short intro tutorial: <a href="http://tryruby.org/levels/1/challenges/0">http://tryruby.org/levels/1/challenges/0</a></p>
+
+<p>And if you&rsquo;re up for it, get Rails running on your machine and try this out: <a href="http://guides.rubyonrails.org/getting_started.html">http://guides.rubyonrails.org/getting_started.html</a></p>
 
 <p><strong>Python/Django</strong></p>
 
